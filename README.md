@@ -7,3 +7,6 @@ https://arxiv.org/abs/1909.11942 <br>
 https://github.com/google-research/ALBERT <br>
 # previous
 https://github.com/google-research/language <br>
+# on pytorch
+https://pytorch.org/tutorials/intermediate/dynamic_quantization_bert_tutorial.html <br>
+https://github.com/codertimo/BERT-pytorch<br>
