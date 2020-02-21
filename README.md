@@ -21,3 +21,5 @@ https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html <br>
 https://ai.googleblog.com/2020/01/encode-tag-and-realize-controllable-and.html <br>
 # reformer
 https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html <br>
+# t5
+https://github.com/google-research/text-to-text-transfer-transformer<br>
