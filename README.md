@@ -25,4 +25,5 @@ https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html <br>
 https://ai.googleblog.com/2020/01/encode-tag-and-realize-controllable-and.html <br>
 # reformer
 https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html <br><br><br>
-![bertology](/img/bertology.jpg){:height="100%" width="100%"}<br><br>
+# bertology
+![bertology](/img/bertology.jpg)<br><br>
