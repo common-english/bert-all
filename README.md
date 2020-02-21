@@ -8,6 +8,9 @@ https://arxiv.org/abs/1909.11942 <br>
 https://github.com/google-research/ALBERT <br>
 # knowbert
 https://github.com/allenai/kb <br>
+# exbert (for visual analysis)
+https://arxiv.org/abs/1910.05276 <br>
+http://exbert.net/ <br>
 # previous
 https://github.com/google-research/language <br>
 # on pytorch
