@@ -2,6 +2,7 @@
 https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html <br>
 https://arxiv.org/abs/1810.04805 <br>
 https://github.com/google-research/bert <br>
+https://en.wikipedia.org/wiki/BERT_(language_model) <br>
 # albert
 https://ai.googleblog.com/2019/12/albert-lite-bert-for-self-supervised.html <br>
 https://arxiv.org/abs/1909.11942 <br>
